@@ -18,5 +18,6 @@ public class Main {
         stringList.add("コンビニ弁当");
         stringList.stream().forEach(s -> System.out.printf(stringList.get(0)+"出力"));
         System.out.printf("太陽");
+        System.out.printf("ジョジョ");
     }
 }
