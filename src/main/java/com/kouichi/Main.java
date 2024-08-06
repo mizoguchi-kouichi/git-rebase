@@ -7,5 +7,6 @@ public class Main {
         System.out.printf("こんにちは");
         System.out.printf("おやすみ");
         System.out.printf("こんばんは");
+        System.out.printf("ただいまです～");
     }
 }
