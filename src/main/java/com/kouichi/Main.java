@@ -10,6 +10,7 @@ public class Main {
         System.out.printf("こんにちは");
         System.out.printf("おやすみ");
         System.out.printf("こんばんは");
+        System.out.printf("おやすみ");
         System.out.printf("ただいまです～");
         List<String> stringList =new ArrayList<>();
         stringList.add("紅シイタケ");
