@@ -19,5 +19,6 @@ public class Main {
         stringList.stream().forEach(s -> System.out.printf(stringList.get(0)+"出力"));
         System.out.printf("太陽");
         System.out.printf("ジョジョ");
+        System.out.printf("名探偵コナン");
     }
 }
