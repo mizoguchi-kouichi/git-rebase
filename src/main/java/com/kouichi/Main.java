@@ -20,5 +20,6 @@ public class Main {
         System.out.printf("太陽");
         System.out.printf("ジョジョ");
         System.out.printf("名探偵コナン");
+        System.out.printf("サザエさん");
     }
 }
