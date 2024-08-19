@@ -22,5 +22,6 @@ public class Main {
         System.out.printf("名探偵コナン");
         System.out.printf("サザエさん");
         System.out.println("ドラえもん");
+        System.out.println("ワンピース");
     }
 }
